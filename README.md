@@ -1,9 +1,9 @@
-## Hi there 👋
+
 
 <!--
 **Rahul10182/Rahul10182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:!-->
 
 <h1 align="center">I'm Rahul Kumar Singh</h1>
 <h3 align="center">Future Software Engineer | Passionate About Coding & Development</h3>
