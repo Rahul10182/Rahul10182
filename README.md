@@ -5,6 +5,15 @@
   <img src="https://komarev.com/ghpvc/?username=Rahul10182&label=Profile%20views&color=0e75b6&style=flat" alt="Anshul" /> 
 </p>
 
+## 🙋‍♂️ About Me
+
+- 🎓 I'm currently pursuing a degree in Computer Science.
+- 🌱 I’m currently learning **Next.js**, **TypeScript**, and **AI**.
+- 💬 Ask me about anything related to **MERN stack**, **C++**, or **DSA**.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-singh-3054862a6/)
+- ⚡ Fun fact: I solve DSA problems to relax (weird, right? 😄)
+
+---
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rahul10182&theme=default&no-frame=true&no-bg=false&margin-w=4)
 
