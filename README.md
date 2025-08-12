@@ -10,7 +10,7 @@
 - 🎓 I'm currently pursuing a degree in Computer Science.
 - 🌱 I’m currently learning **Next.js**, **TypeScript**, and **AI**.
 - 💬 Ask me about anything related to **MERN stack**, **C++**, or **DSA**.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-singh-3054862a6/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/rahul-kumar-singh-3054862a6/)
 - ⚡ Fun fact: I solve DSA problems to relax (weird, right? 😄)
 
 ---
@@ -58,7 +58,7 @@
 
 <h3 align="left">Connect with Me</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/rahul-singh-3054862a6/" target="_blank">
+  <a href="https://www.linkedin.com/in/rahul-kumar-singh-3054862a6/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://leetcode.com/u/Rahulkrsingh3228" target="_blank">
